@@ -1,1 +1,3 @@
 
+- name: Install deps
+  run: pip install yfinance pandas ta requests
